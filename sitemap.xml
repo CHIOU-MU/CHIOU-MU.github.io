@@ -2,15 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://catsreligion.com/index.html</loc>
-    <lastmod>2020-12-17</lastmod>
+    <lastmod>2021-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://catsreligion.com/1.html</loc>
-    <lastmod>2020-12-17</lastmod>
+    <loc>http://catsreligion.com/longcat.html</loc>
+    <lastmod>2021-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://catsreligion.com/images/cat-crop-u630.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://catsreligion.com/images/cat-crop-u630_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://catsreligion.com/catqueen.html</loc>
+    <lastmod>2021-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://catsreligion.com/images/cat-crop-u525.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://catsreligion.com/images/cat-crop-u525_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://catsreligion.com/loopcat.html</loc>
+    <lastmod>2021-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://catsreligion.com/images/cat-crop-u607.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://catsreligion.com/images/cat-crop-u607_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://catsreligion.com/rainbowcat.html</loc>
+    <lastmod>2021-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://catsreligion.com/images/cat-crop-u499.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://catsreligion.com/images/cat-crop-u499_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://catsreligion.com/assets/cat.mp4</loc>

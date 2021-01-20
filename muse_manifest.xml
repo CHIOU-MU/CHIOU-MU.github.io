@@ -1,33 +1,67 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="catsreligion.com" resolutions="1x,2x" timestamp="1608199190248">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="catsreligion.com" resolutions="1x,2x" timestamp="1611148451616">
+  <folder name="css">
+    <file name="site_global.css" crc="3890554782"/>
+    <file name="index.css" crc="569129" ref="index"/>
+    <file name="catqueen.css" crc="426854984" ref="catqueen"/>
+    <file name="longcat.css" crc="4271549726" ref="longcat"/>
+    <file name="loopcat.css" crc="435995371" ref="loopcat"/>
+    <file name="rainbowcat.css" crc="3780579803" ref="rainbowcat"/>
+  </folder>
   <folder name="assets">
     <file name="cat.mp4" crc="4216270077" seo="true" mt="1604649524000"/>
   </folder>
-  <folder name="css">
-    <file name="site_global.css" crc="3890554782"/>
-    <file name="index.css" crc="4093617884" ref="index"/>
-    <file name="1.css" crc="28930897" ref="1"/>
-  </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:1"/>
-    <file name="museutils.js" crc="3803043152" ref="index:1"/>
-    <file name="whatinput.js" crc="86476730" ref="index:1"/>
-    <file name="museconfig.js" crc="380897831" ref="index:1"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:1"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:1"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index:1"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:catqueen:longcat:loopcat:rainbowcat"/>
+    <file name="museutils.js" crc="3803043152" ref="index:catqueen:longcat:loopcat:rainbowcat"/>
+    <file name="whatinput.js" crc="86476730" ref="index:catqueen:longcat:loopcat:rainbowcat"/>
+    <file name="museconfig.js" crc="380897831" ref="index:catqueen:longcat:loopcat:rainbowcat"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:catqueen"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:catqueen:longcat:loopcat:rainbowcat"/>
+    <file name="require.js" crc="4157109226" ref="index:catqueen:longcat:loopcat:rainbowcat"/>
   </folder>
   <folder name="images">
-    <file name="cat.jpg" crc="3790845279" ref="index">
+    <file name="cat.jpg" crc="4046874276" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cat_2x.jpg" crc="135053000" ref="index">
+    <file name="cat_2x.jpg" crc="3901351680" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="92417.jpg" crc="468381888" ref="1">
+    <file name="92417.jpg" crc="468381888" ref="catqueen">
       <caption webpage="1" alt=""/>
+      <caption webpage="catqueen" alt=""/>
+    </file>
+    <file name="cat-crop-u525.jpg" crc="4211787587" seo="true" ref="catqueen">
+      <caption webpage="1" alt=""/>
+      <caption webpage="catqueen" alt=""/>
+    </file>
+    <file name="cat-crop-u525_2x.jpg" crc="3951032567" seo="true" ref="catqueen">
+      <caption webpage="1" alt=""/>
+      <caption webpage="catqueen" alt=""/>
+    </file>
+    <file name="cat-crop-u499.jpg" crc="209720173" seo="true" ref="rainbowcat">
+      <caption webpage="2" alt=""/>
+      <caption webpage="rainbowcat" alt=""/>
+    </file>
+    <file name="cat-crop-u499_2x.jpg" crc="71297162" seo="true" ref="rainbowcat">
+      <caption webpage="2" alt=""/>
+      <caption webpage="rainbowcat" alt=""/>
+    </file>
+    <file name="cat-crop-u630.jpg" crc="4116152598" seo="true" ref="longcat">
+      <caption webpage="longcat" alt=""/>
+    </file>
+    <file name="cat-crop-u630_2x.jpg" crc="3826591708" seo="true" ref="longcat">
+      <caption webpage="longcat" alt=""/>
+    </file>
+    <file name="cat-crop-u607.jpg" crc="3852224823" seo="true" ref="loopcat">
+      <caption webpage="loopcat" alt=""/>
+    </file>
+    <file name="cat-crop-u607_2x.jpg" crc="4139744874" seo="true" ref="loopcat">
+      <caption webpage="loopcat" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4125572937" seo="true" mt="1608199166198" redirect="true"/>
-  <file name="1.html" crc="4018112025" seo="true" mt="1608197754813" redirect="true"/>
+  <file name="index.html" crc="435084884" seo="true" mt="1611148446122" redirect="true"/>
+  <file name="catqueen.html" crc="2334494" seo="true" mt="1611148388213" redirect="true"/>
+  <file name="longcat.html" crc="152430224" seo="true" mt="1611148367782" redirect="true"/>
+  <file name="loopcat.html" crc="189036603" seo="true" mt="1611148289361" redirect="true"/>
+  <file name="rainbowcat.html" crc="334527081" seo="true" mt="1611148225245" redirect="true"/>
 </manifest>
