@@ -1,62 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://catsreligion.com/index.html</loc>
-    <lastmod>2021-01-20</lastmod>
+    <loc>http://MuPortfolio.com/index.html</loc>
+    <lastmod>2022-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://catsreligion.com/longcat.html</loc>
-    <lastmod>2021-01-20</lastmod>
+    <loc>http://MuPortfolio.com/%E5%BD%B1%E5%83%8F.html</loc>
+    <lastmod>2022-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://catsreligion.com/images/cat-crop-u630.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://catsreligion.com/images/cat-crop-u630_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://catsreligion.com/catqueen.html</loc>
-    <lastmod>2021-01-20</lastmod>
+    <loc>http://MuPortfolio.com/%E9%81%8A%E6%88%B2.html</loc>
+    <lastmod>2022-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://catsreligion.com/images/cat-crop-u525.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://catsreligion.com/images/cat-crop-u525_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://catsreligion.com/loopcat.html</loc>
-    <lastmod>2021-01-20</lastmod>
+    <loc>http://MuPortfolio.com/what-if-not.html</loc>
+    <lastmod>2022-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://catsreligion.com/images/cat-crop-u607.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://catsreligion.com/images/cat-crop-u607_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://catsreligion.com/rainbowcat.html</loc>
-    <lastmod>2021-01-20</lastmod>
+    <loc>http://MuPortfolio.com/%E9%9D%88.html</loc>
+    <lastmod>2022-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://catsreligion.com/images/cat-crop-u499.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://catsreligion.com/images/cat-crop-u499_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://catsreligion.com/assets/cat.mp4</loc>
-    <lastmod>2020-11-06</lastmod>
+    <loc>http://MuPortfolio.com/%E5%9B%9E%E5%AE%B6.html</loc>
+    <lastmod>2022-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
