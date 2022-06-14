@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portfolio.com" resolutions="1x" timestamp="1655196082032">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portfolio.com" resolutions="1x" timestamp="1655197290739">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3931007252" ref="index"/>
+    <file name="index.css" crc="3952168861" ref="index"/>
     <file name="returnhome.css" crc="108395681" ref="returnhome"/>
-    <file name="game.css" crc="371871949" ref="game"/>
+    <file name="game.css" crc="4015329197" ref="game"/>
     <file name="what-if-not.css" crc="4108162891" ref="what-if-not"/>
-    <file name="vedio.css" crc="4086111131" ref="vedio"/>
+    <file name="vedio.css" crc="3998867033" ref="vedio"/>
     <file name="spirit.css" crc="4138581820" ref="spirit"/>
   </folder>
   <folder name="scripts">
@@ -131,10 +131,22 @@
     <file name="220508225832.jpg" crc="151707709" ref="returnhome">
       <caption webpage="returnhome" alt=""/>
     </file>
+    <file name="下載.jpg" crc="238416286" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1139-4.png" crc="250748274" ref="index"/>
+    <file name="下載 (1).jpg" crc="177979741" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1142-4.png" crc="246200928" ref="index"/>
+    <file name="下載 (2).jpg" crc="13368908" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1148-4.png" crc="3983013566" ref="index"/>
   </folder>
-  <file name="index.html" crc="3840616011" seo="true" mt="1655195726535" redirect="true"/>
-  <file name="vedio.html" crc="4241026932" seo="true" mt="1655195722888" redirect="true"/>
-  <file name="game.html" crc="423509202" seo="true" mt="1655195718728" redirect="true"/>
+  <file name="index.html" crc="481555482" seo="true" mt="1655197271188" redirect="true"/>
+  <file name="vedio.html" crc="103031298" seo="true" mt="1655197124017" redirect="true"/>
+  <file name="game.html" crc="3785408665" seo="true" mt="1655197133948" redirect="true"/>
   <file name="what-if-not.html" crc="4145831788" seo="true" mt="1655195740020" redirect="true"/>
   <file name="spirit.html" crc="4004924733" seo="true" mt="1655195733690" redirect="true"/>
   <file name="returnhome.html" crc="85210186" seo="true" mt="1655195714777" redirect="true"/>
