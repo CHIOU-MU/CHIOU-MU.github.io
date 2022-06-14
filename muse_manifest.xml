@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portfolio.com" resolutions="1x" timestamp="1655192155077">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portfolio.com" resolutions="1x" timestamp="1655196082032">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="238551286" ref="index"/>
-    <file name="returnhome.css" crc="3799809118" ref="returnhome"/>
-    <file name="game.css" crc="4109483474" ref="game"/>
-    <file name="what-if-not.css" crc="377875697" ref="what-if-not"/>
-    <file name="vedio.css" crc="493229718" ref="vedio"/>
-    <file name="spirit.css" crc="270364571" ref="spirit"/>
+    <file name="index.css" crc="3931007252" ref="index"/>
+    <file name="returnhome.css" crc="108395681" ref="returnhome"/>
+    <file name="game.css" crc="371871949" ref="game"/>
+    <file name="what-if-not.css" crc="4108162891" ref="what-if-not"/>
+    <file name="vedio.css" crc="4086111131" ref="vedio"/>
+    <file name="spirit.css" crc="4138581820" ref="spirit"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:vedio:game:what-if-not:spirit:returnhome"/>
@@ -18,7 +18,7 @@
     <file name="require.js" crc="4157109226" ref="index:vedio:game:what-if-not:spirit:returnhome"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:vedio:game:spirit:returnhome"/>
+    <file name="blank.gif" crc="4208392903" ref="index:vedio:game:spirit:returnhome:what-if-not"/>
     <file name="u100_states.png" crc="245364173" ref="index"/>
     <file name="u100_states-r.png" crc="4068988724" ref="index"/>
     <file name="u105_states.png" crc="470926027" ref="index"/>
@@ -71,7 +71,7 @@
     <file name="u413_states.png" crc="483226856" ref="spirit"/>
     <file name="u413_states-r.png" crc="3950255665" ref="spirit"/>
     <file name="u569-4.png" crc="204572688" ref="spirit"/>
-    <file name="u483-12.png" crc="308707566" ref="spirit"/>
+    <file name="u483-12.png" crc="134360447" ref="spirit"/>
     <file name="img_6267改1.jpg" crc="3820944539" ref="spirit">
       <caption webpage="spirit" alt=""/>
     </file>
@@ -87,7 +87,7 @@
     <file name="img_6268.jpg" crc="158138069" ref="spirit">
       <caption webpage="spirit" alt=""/>
     </file>
-    <file name="u548-8.png" crc="367073758" ref="spirit"/>
+    <file name="u548-8.png" crc="3760678864" ref="spirit"/>
     <file name="海報1.jpg" crc="3854144602" ref="spirit">
       <caption webpage="spirit" alt=""/>
     </file>
@@ -103,11 +103,39 @@
     <file name="u470_states.png" crc="3950255665" ref="returnhome"/>
     <file name="u470_states-r.png" crc="3950255665" ref="returnhome"/>
     <file name="u793-4.png" crc="415879725" ref="returnhome"/>
+    <file name="u1054_states.png" crc="3888802719" ref="what-if-not"/>
+    <file name="u1054_states-r.png" crc="4188785286" ref="what-if-not"/>
+    <file name="u1055_states.png" crc="483226856" ref="what-if-not"/>
+    <file name="u1055_states-r.png" crc="3950255665" ref="what-if-not"/>
+    <file name="3endwork - mainscene - pc, mac - linux standalone - unity 2019412f1 personal_ _dx11_ 2022-01-14 00-35-54_moment.jpg" crc="3949057331" ref="returnhome">
+      <caption webpage="returnhome" alt=""/>
+    </file>
+    <file name="3endwork - endscene - pc, mac - linux standalone - unity 2019412f1 personal_ _dx11_ 2022-01-11 00-44-20_moment.jpg" crc="18032517" ref="returnhome">
+      <caption webpage="returnhome" alt=""/>
+    </file>
+    <file name="u886-17.png" crc="335482877" ref="returnhome"/>
+    <file name="3endwork - mainscene - pc, mac - linux standalone - unity 2019412f1 personal _dx11_ 2022_1_11 上午 10_25_04.jpg" crc="433943368" ref="returnhome">
+      <caption webpage="returnhome" alt=""/>
+      <caption webpage="returnhome" alt=""/>
+    </file>
+    <file name="3endwork - mainscene - pc, mac - linux standalone - unity 2019412f1 personal _dx11_ 2022-01-14 00-27-10_moment.jpg" crc="6967768" ref="returnhome">
+      <caption webpage="returnhome" alt=""/>
+    </file>
+    <file name="3endwork - endscene - pc, mac - linux standalone - unity 2019412f1 personal _dx11_ 2022-01-11 00-30-53_moment.jpg" crc="3917309747" ref="returnhome">
+      <caption webpage="returnhome" alt=""/>
+    </file>
+    <file name="3endwork - endscene - pc, mac - linux standalone - unity 2019412f1 personal_ _dx11_ 2022-01-11 00-53-30_moment.jpg" crc="4012936826" ref="returnhome">
+      <caption webpage="returnhome" alt=""/>
+    </file>
+    <file name="u1050-4.png" crc="4258754543" ref="returnhome"/>
+    <file name="220508225832.jpg" crc="151707709" ref="returnhome">
+      <caption webpage="returnhome" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="52638634" seo="true" mt="1655191749096" redirect="true"/>
-  <file name="vedio.html" crc="491746219" seo="true" mt="1655191749098" redirect="true"/>
-  <file name="game.html" crc="4122822548" seo="true" mt="1655191749098" redirect="true"/>
-  <file name="what-if-not.html" crc="413577186" seo="true" mt="1655191749099" redirect="false"/>
-  <file name="spirit.html" crc="3948666517" seo="true" mt="1655191749099" redirect="true"/>
-  <file name="returnhome.html" crc="3928053820" seo="true" mt="1655191749100" redirect="true"/>
+  <file name="index.html" crc="3840616011" seo="true" mt="1655195726535" redirect="true"/>
+  <file name="vedio.html" crc="4241026932" seo="true" mt="1655195722888" redirect="true"/>
+  <file name="game.html" crc="423509202" seo="true" mt="1655195718728" redirect="true"/>
+  <file name="what-if-not.html" crc="4145831788" seo="true" mt="1655195740020" redirect="true"/>
+  <file name="spirit.html" crc="4004924733" seo="true" mt="1655195733690" redirect="true"/>
+  <file name="returnhome.html" crc="85210186" seo="true" mt="1655195714777" redirect="true"/>
 </manifest>

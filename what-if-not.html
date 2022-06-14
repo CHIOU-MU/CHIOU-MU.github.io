@@ -17,12 +17,21 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>what if not</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/what-if-not.css?crc=377875697" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/what-if-not.css?crc=4108162891" id="pagesheet"/>
    </head>
  <body>
 
-  <div class="clearfix borderbox" id="page"><!-- column -->
-   <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="0" data-content-below-spacer="500" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+  <div class="clearfix borderbox" id="page"><!-- group -->
+   <div class="browser_width grpelem" id="u1053-bw">
+    <div id="u1053"><!-- simple frame --></div>
+   </div>
+   <a class="nonblock nontext grpelem" id="u1054" href="vedio.html"><!-- state-based BG images --><div id="u1054_states"><img alt="影像" src="images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></a>
+   <a class="nonblock nontext grpelem" id="u1055" href="game.html"><!-- state-based BG images --><div id="u1055_states"><img alt="遊戲" src="images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></a>
+   <div class="verticalspacer" data-offset-top="377" data-content-above-spacer="76" data-content-below-spacer="123" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+  </div>
+  <div class="preload_images">
+   <img class="preload" src="images/u1054_states-r.png?crc=4188785286" alt=""/>
+   <img class="preload" src="images/u1055_states-r.png?crc=3950255665" alt=""/>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -39,6 +48,8 @@ var muse_init=function(){require.config({baseUrl:""});require(["jquery","museuti
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
