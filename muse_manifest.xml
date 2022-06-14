@@ -1,24 +1,24 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portfolio.com" resolutions="1x" timestamp="1655190625076">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portfolio.com" resolutions="1x" timestamp="1655192155077">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="__2.css" crc="3799809118" ref="回家"/>
-    <file name="__1.css" crc="311944743" ref="遊戲"/>
-    <file name="index.css" crc="232564393" ref="index"/>
+    <file name="index.css" crc="238551286" ref="index"/>
+    <file name="returnhome.css" crc="3799809118" ref="returnhome"/>
+    <file name="game.css" crc="4109483474" ref="game"/>
     <file name="what-if-not.css" crc="377875697" ref="what-if-not"/>
-    <file name="__.css" crc="3840514586" ref="影像"/>
-    <file name="_.css" crc="270364571" ref="靈"/>
+    <file name="vedio.css" crc="493229718" ref="vedio"/>
+    <file name="spirit.css" crc="270364571" ref="spirit"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:影像:遊戲:what-if-not:靈:回家"/>
-    <file name="museutils.js" crc="3803043152" ref="index:影像:遊戲:what-if-not:靈:回家"/>
-    <file name="whatinput.js" crc="86476730" ref="index:影像:遊戲:what-if-not:靈:回家"/>
-    <file name="museconfig.js" crc="380897831" ref="index:影像:遊戲:what-if-not:靈:回家"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:影像:遊戲:what-if-not:靈:回家"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:影像:遊戲:靈:回家"/>
-    <file name="require.js" crc="4157109226" ref="index:影像:遊戲:what-if-not:靈:回家"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:vedio:game:what-if-not:spirit:returnhome"/>
+    <file name="museutils.js" crc="3803043152" ref="index:vedio:game:what-if-not:spirit:returnhome"/>
+    <file name="whatinput.js" crc="86476730" ref="index:vedio:game:what-if-not:spirit:returnhome"/>
+    <file name="museconfig.js" crc="380897831" ref="index:vedio:game:what-if-not:spirit:returnhome"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:vedio:game:what-if-not:spirit:returnhome"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:vedio:game:spirit:returnhome"/>
+    <file name="require.js" crc="4157109226" ref="index:vedio:game:what-if-not:spirit:returnhome"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:影像:遊戲:靈:回家"/>
+    <file name="blank.gif" crc="4208392903" ref="index:vedio:game:spirit:returnhome"/>
     <file name="u100_states.png" crc="245364173" ref="index"/>
     <file name="u100_states-r.png" crc="4068988724" ref="index"/>
     <file name="u105_states.png" crc="470926027" ref="index"/>
@@ -28,86 +28,86 @@
     </file>
     <file name="u320-4.png" crc="3886585064" ref="index"/>
     <file name="u803-4.png" crc="394108900" ref="index"/>
-    <file name="回頂部.png" crc="3842256896" ref="index:影像:遊戲:靈:回家">
+    <file name="回頂部.png" crc="3842256896" ref="index:vedio:game:spirit:returnhome">
       <caption webpage="index" alt=""/>
-      <caption webpage="影像" alt=""/>
-      <caption webpage="回家" alt=""/>
-      <caption webpage="遊戲" alt=""/>
-      <caption webpage="靈" alt=""/>
+      <caption webpage="vedio" alt=""/>
+      <caption webpage="game" alt=""/>
+      <caption webpage="spirit" alt=""/>
+      <caption webpage="returnhome" alt=""/>
     </file>
-    <file name="u352-4-a.png" crc="3888802719" ref="影像"/>
-    <file name="u408_states.png" crc="483226856" ref="影像"/>
-    <file name="u408_states-r.png" crc="3950255665" ref="影像"/>
-    <file name="海報1-u377-fr.jpg" crc="3766714340" ref="影像"/>
-    <file name="海報2-u394-fr.jpg" crc="3897639835" ref="影像"/>
-    <file name="u391_states.png" crc="46899435" ref="影像"/>
-    <file name="u391_states-r.png" crc="3978406669" ref="影像"/>
-    <file name="視覺.png" crc="3867204575" ref="影像">
-      <caption webpage="影像" alt=""/>
+    <file name="u352-4-a.png" crc="3888802719" ref="vedio"/>
+    <file name="u408_states.png" crc="483226856" ref="vedio"/>
+    <file name="u408_states-r.png" crc="3950255665" ref="vedio"/>
+    <file name="海報1-u377-fr.jpg" crc="3766714340" ref="vedio"/>
+    <file name="海報2-u394-fr.jpg" crc="3897639835" ref="vedio"/>
+    <file name="u391_states.png" crc="46899435" ref="vedio"/>
+    <file name="u391_states-r.png" crc="3978406669" ref="vedio"/>
+    <file name="視覺.png" crc="3867204575" ref="vedio">
+      <caption webpage="vedio" alt=""/>
     </file>
-    <file name="u449_states.png" crc="414903260" ref="影像"/>
-    <file name="u449_states-r.png" crc="292456249" ref="影像"/>
-    <file name="回首頁.png" crc="3967471723" ref="影像:遊戲:靈:回家">
-      <caption webpage="影像" alt=""/>
-      <caption webpage="回家" alt=""/>
-      <caption webpage="遊戲" alt=""/>
-      <caption webpage="靈" alt=""/>
+    <file name="u449_states.png" crc="414903260" ref="vedio"/>
+    <file name="u449_states-r.png" crc="292456249" ref="vedio"/>
+    <file name="回首頁.png" crc="3967471723" ref="vedio:game:spirit:returnhome">
+      <caption webpage="vedio" alt=""/>
+      <caption webpage="game" alt=""/>
+      <caption webpage="spirit" alt=""/>
+      <caption webpage="returnhome" alt=""/>
     </file>
-    <file name="u436-4-a.png" crc="3950255665" ref="遊戲"/>
-    <file name="u435_states.png" crc="4188785286" ref="遊戲"/>
-    <file name="u435_states-r.png" crc="3888802719" ref="遊戲"/>
-    <file name="運氣對決.png" crc="198295517" ref="遊戲">
-      <caption webpage="遊戲" alt=""/>
+    <file name="u436-4-a.png" crc="3950255665" ref="game"/>
+    <file name="u435_states.png" crc="4188785286" ref="game"/>
+    <file name="u435_states-r.png" crc="3888802719" ref="game"/>
+    <file name="運氣對決.png" crc="198295517" ref="game">
+      <caption webpage="game" alt=""/>
     </file>
-    <file name="u824_states.png" crc="4124693167" ref="遊戲"/>
-    <file name="u824_states-r.png" crc="105970396" ref="遊戲"/>
-    <file name="回家 封面.png" crc="22018987" ref="遊戲">
-      <caption webpage="遊戲" alt=""/>
+    <file name="u824_states.png" crc="4124693167" ref="game"/>
+    <file name="u824_states-r.png" crc="105970396" ref="game"/>
+    <file name="回家 封面.png" crc="22018987" ref="game">
+      <caption webpage="game" alt=""/>
     </file>
-    <file name="u453_states.png" crc="3937425701" ref="遊戲"/>
-    <file name="u453_states-r.png" crc="3762444416" ref="遊戲"/>
-    <file name="u412_states.png" crc="3888802719" ref="靈"/>
-    <file name="u412_states-r.png" crc="4188785286" ref="靈"/>
-    <file name="u413_states.png" crc="483226856" ref="靈"/>
-    <file name="u413_states-r.png" crc="3950255665" ref="靈"/>
-    <file name="u569-4.png" crc="204572688" ref="靈"/>
-    <file name="u483-12.png" crc="308707566" ref="靈"/>
-    <file name="img_6267改1.jpg" crc="3820944539" ref="靈">
-      <caption webpage="靈" alt=""/>
+    <file name="u453_states.png" crc="3937425701" ref="game"/>
+    <file name="u453_states-r.png" crc="3762444416" ref="game"/>
+    <file name="u412_states.png" crc="3888802719" ref="spirit"/>
+    <file name="u412_states-r.png" crc="4188785286" ref="spirit"/>
+    <file name="u413_states.png" crc="483226856" ref="spirit"/>
+    <file name="u413_states-r.png" crc="3950255665" ref="spirit"/>
+    <file name="u569-4.png" crc="204572688" ref="spirit"/>
+    <file name="u483-12.png" crc="308707566" ref="spirit"/>
+    <file name="img_6267改1.jpg" crc="3820944539" ref="spirit">
+      <caption webpage="spirit" alt=""/>
     </file>
-    <file name="img_6277.jpg" crc="318639353" ref="靈">
-      <caption webpage="靈" alt=""/>
+    <file name="img_6277.jpg" crc="318639353" ref="spirit">
+      <caption webpage="spirit" alt=""/>
     </file>
-    <file name="img_6315.jpg" crc="128846600" ref="靈">
-      <caption webpage="靈" alt=""/>
+    <file name="img_6315.jpg" crc="128846600" ref="spirit">
+      <caption webpage="spirit" alt=""/>
     </file>
-    <file name="舞動2.jpg" crc="4266581846" ref="靈">
-      <caption webpage="靈" alt=""/>
+    <file name="舞動2.jpg" crc="4266581846" ref="spirit">
+      <caption webpage="spirit" alt=""/>
     </file>
-    <file name="img_6268.jpg" crc="158138069" ref="靈">
-      <caption webpage="靈" alt=""/>
+    <file name="img_6268.jpg" crc="158138069" ref="spirit">
+      <caption webpage="spirit" alt=""/>
     </file>
-    <file name="u548-8.png" crc="367073758" ref="靈"/>
-    <file name="海報1.jpg" crc="3854144602" ref="靈">
-      <caption webpage="靈" alt=""/>
+    <file name="u548-8.png" crc="367073758" ref="spirit"/>
+    <file name="海報1.jpg" crc="3854144602" ref="spirit">
+      <caption webpage="spirit" alt=""/>
     </file>
-    <file name="海報2.jpg" crc="528985965" ref="靈">
-      <caption webpage="靈" alt=""/>
+    <file name="海報2.jpg" crc="528985965" ref="spirit">
+      <caption webpage="spirit" alt=""/>
     </file>
-    <file name="回前面.png" crc="480024669" ref="靈:回家">
-      <caption webpage="靈" alt=""/>
-      <caption webpage="回家" alt=""/>
+    <file name="回前面.png" crc="480024669" ref="spirit:returnhome">
+      <caption webpage="spirit" alt=""/>
+      <caption webpage="returnhome" alt=""/>
     </file>
-    <file name="u469_states.png" crc="4188785286" ref="回家"/>
-    <file name="u469_states-r.png" crc="3888802719" ref="回家"/>
-    <file name="u470_states.png" crc="3950255665" ref="回家"/>
-    <file name="u470_states-r.png" crc="3950255665" ref="回家"/>
-    <file name="u793-4.png" crc="415879725" ref="回家"/>
+    <file name="u469_states.png" crc="4188785286" ref="returnhome"/>
+    <file name="u469_states-r.png" crc="3888802719" ref="returnhome"/>
+    <file name="u470_states.png" crc="3950255665" ref="returnhome"/>
+    <file name="u470_states-r.png" crc="3950255665" ref="returnhome"/>
+    <file name="u793-4.png" crc="415879725" ref="returnhome"/>
   </folder>
-  <file name="index.html" crc="282524009" seo="true" mt="1655189967037" redirect="true"/>
-  <file name="影像.html" crc="478059034" seo="true" mt="1655189950565" redirect="true"/>
-  <file name="遊戲.html" crc="4182785446" seo="true" mt="1655190491643" redirect="true"/>
-  <file name="what-if-not.html" crc="413577186" seo="true" mt="1655180065628" redirect="false"/>
-  <file name="靈.html" crc="99609820" seo="true" mt="1655189179053" redirect="true"/>
-  <file name="回家.html" crc="20164350" seo="true" mt="1655189795929" redirect="true"/>
+  <file name="index.html" crc="52638634" seo="true" mt="1655191749096" redirect="true"/>
+  <file name="vedio.html" crc="491746219" seo="true" mt="1655191749098" redirect="true"/>
+  <file name="game.html" crc="4122822548" seo="true" mt="1655191749098" redirect="true"/>
+  <file name="what-if-not.html" crc="413577186" seo="true" mt="1655191749099" redirect="false"/>
+  <file name="spirit.html" crc="3948666517" seo="true" mt="1655191749099" redirect="true"/>
+  <file name="returnhome.html" crc="3928053820" seo="true" mt="1655191749100" redirect="true"/>
 </manifest>
