@@ -1,33 +1,33 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portfolio.com" resolutions="1x" timestamp="1655263044936">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portfolio.com" resolutions="1x" timestamp="1655271274820">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="359975063" ref="index"/>
-    <file name="returnhome.css" crc="3851174871" ref="returnhome"/>
+    <file name="index.css" crc="3869436061" ref="index"/>
+    <file name="returnhome.css" crc="199537604" ref="returnhome"/>
     <file name="game.css" crc="3912070033" ref="game"/>
-    <file name="what-if-not.css" crc="4106062029" ref="what-if-not"/>
-    <file name="vedio.css" crc="356834219" ref="vedio"/>
-    <file name="spirit.css" crc="3837152552" ref="spirit"/>
-    <file name="ice.css" crc="4238967106" ref="ice"/>
-    <file name="russian-doll.css" crc="3951205569" ref="russian-doll"/>
+    <file name="what-if-not.css" crc="296927166" ref="what-if-not"/>
+    <file name="vedio.css" crc="3804117869" ref="vedio"/>
+    <file name="spirit.css" crc="4138360251" ref="spirit"/>
+    <file name="ice.css" crc="4030853685" ref="ice"/>
+    <file name="russian-doll.css" crc="145590431" ref="russian-doll"/>
     <file name="building.css" crc="4002228637" ref="building"/>
     <file name="billboard.css" crc="63557490" ref="billboard"/>
-    <file name="sound-waves.css" crc="413982562" ref="sound-waves"/>
-    <file name="bubble.css" crc="4292601197" ref="bubble"/>
-    <file name="sun.css" crc="3834064995" ref="sun"/>
-    <file name="flyflim.css" crc="3879420456" ref="flyflim"/>
-    <file name="piranha.css" crc="3924140028" ref="piranha"/>
+    <file name="sound-waves.css" crc="4199372012" ref="sound-waves"/>
+    <file name="bubble.css" crc="23710210" ref="bubble"/>
+    <file name="sun.css" crc="382110092" ref="sun"/>
+    <file name="piranha.css" crc="148030592" ref="piranha"/>
+    <file name="fly-swatter.css" crc="4086699269" ref="fly-swatter"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:vedio:game:what-if-not:spirit:returnhome:flyflim:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha"/>
-    <file name="museutils.js" crc="3803043152" ref="index:vedio:game:what-if-not:spirit:returnhome:flyflim:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha"/>
-    <file name="whatinput.js" crc="86476730" ref="index:vedio:game:what-if-not:spirit:returnhome:flyflim:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha"/>
-    <file name="museconfig.js" crc="380897831" ref="index:vedio:game:what-if-not:spirit:returnhome:flyflim:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:vedio:game:what-if-not:spirit:returnhome:flyflim:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:vedio:game:spirit:returnhome:what-if-not:flyflim:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha"/>
-    <file name="require.js" crc="4157109226" ref="index:vedio:game:what-if-not:spirit:returnhome:flyflim:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:vedio:game:what-if-not:spirit:returnhome:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha:fly-swatter"/>
+    <file name="museutils.js" crc="3803043152" ref="index:vedio:game:what-if-not:spirit:returnhome:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha:fly-swatter"/>
+    <file name="whatinput.js" crc="86476730" ref="index:vedio:game:what-if-not:spirit:returnhome:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha:fly-swatter"/>
+    <file name="museconfig.js" crc="380897831" ref="index:vedio:game:what-if-not:spirit:returnhome:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha:fly-swatter"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:vedio:game:what-if-not:spirit:returnhome:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha:fly-swatter"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:vedio:game:spirit:returnhome:what-if-not:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha:fly-swatter"/>
+    <file name="require.js" crc="4157109226" ref="index:vedio:game:what-if-not:spirit:returnhome:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha:fly-swatter"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:vedio:game:spirit:returnhome:what-if-not:flyflim:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha"/>
+    <file name="blank.gif" crc="4208392903" ref="index:vedio:game:spirit:returnhome:what-if-not:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha:fly-swatter"/>
     <file name="u100_states.png" crc="245364173" ref="index"/>
     <file name="u100_states-r.png" crc="4068988724" ref="index"/>
     <file name="u105_states.png" crc="470926027" ref="index"/>
@@ -36,14 +36,14 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u320-4.png" crc="3886585064" ref="index"/>
-    <file name="u803-4.png" crc="4199443451" ref="index"/>
+    <file name="u803-4.png" crc="110026752" ref="index"/>
     <file name="回頂部.png" crc="3842256896" ref="index:vedio:game:spirit:returnhome:what-if-not">
       <caption webpage="index" alt=""/>
-      <caption webpage="returnhome" alt=""/>
-      <caption webpage="what-if-not" alt=""/>
-      <caption webpage="vedio" alt=""/>
       <caption webpage="game" alt=""/>
       <caption webpage="spirit" alt=""/>
+      <caption webpage="what-if-not" alt=""/>
+      <caption webpage="returnhome" alt=""/>
+      <caption webpage="vedio" alt=""/>
     </file>
     <file name="u352-4-a.png" crc="3888802719" ref="vedio"/>
     <file name="u408_states.png" crc="483226856" ref="vedio"/>
@@ -55,21 +55,22 @@
     <file name="視覺.png" crc="3867204575" ref="vedio">
       <caption webpage="vedio" alt=""/>
     </file>
-    <file name="回首頁.png" crc="3967471723" ref="vedio:game:spirit:returnhome:what-if-not:flyflim:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha">
-      <caption webpage="returnhome" alt=""/>
-      <caption webpage="what-if-not" alt=""/>
-      <caption webpage="flyflim" alt=""/>
-      <caption webpage="vedio" alt=""/>
-      <caption webpage="spirit" alt=""/>
-      <caption webpage="building" alt=""/>
-      <caption webpage="piranha" alt=""/>
-      <caption webpage="ice" alt=""/>
-      <caption webpage="game" alt=""/>
-      <caption webpage="sun" alt=""/>
+    <file name="回首頁.png" crc="3967471723" ref="vedio:game:spirit:returnhome:what-if-not:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha:fly-swatter">
       <caption webpage="bubble" alt=""/>
-      <caption webpage="billboard" alt=""/>
+      <caption webpage="returnhome" alt=""/>
       <caption webpage="sound-waves" alt=""/>
+      <caption webpage="building" alt=""/>
+      <caption webpage="billboard" alt=""/>
+      <caption webpage="ice" alt=""/>
       <caption webpage="russian-doll" alt=""/>
+      <caption webpage="what-if-not" alt=""/>
+      <caption webpage="spirit" alt=""/>
+      <caption webpage="game" alt=""/>
+      <caption webpage="fly-swatter" alt=""/>
+      <caption webpage="flyflim" alt=""/>
+      <caption webpage="piranha" alt=""/>
+      <caption webpage="vedio" alt=""/>
+      <caption webpage="sun" alt=""/>
     </file>
     <file name="u436-4-a.png" crc="3950255665" ref="game"/>
     <file name="u435_states.png" crc="4188785286" ref="game"/>
@@ -100,26 +101,27 @@
     <file name="img_6268.jpg" crc="158138069" ref="spirit">
       <caption webpage="spirit" alt=""/>
     </file>
-    <file name="u548-8.png" crc="4081787975" ref="spirit"/>
+    <file name="u548-8.png" crc="423248423" ref="spirit"/>
     <file name="海報1.jpg" crc="155276760" ref="spirit">
       <caption webpage="spirit" alt=""/>
     </file>
     <file name="海報2.jpg" crc="297249642" ref="spirit">
       <caption webpage="spirit" alt=""/>
     </file>
-    <file name="回前面.png" crc="480024669" ref="spirit:returnhome:what-if-not:flyflim:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha">
-      <caption webpage="piranha" alt=""/>
+    <file name="回前面.png" crc="480024669" ref="spirit:returnhome:what-if-not:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha:fly-swatter">
       <caption webpage="flyflim" alt=""/>
-      <caption webpage="sun" alt=""/>
-      <caption webpage="building" alt=""/>
-      <caption webpage="returnhome" alt=""/>
       <caption webpage="bubble" alt=""/>
+      <caption webpage="sound-waves" alt=""/>
+      <caption webpage="russian-doll" alt=""/>
       <caption webpage="billboard" alt=""/>
       <caption webpage="ice" alt=""/>
-      <caption webpage="sound-waves" alt=""/>
       <caption webpage="what-if-not" alt=""/>
+      <caption webpage="building" alt=""/>
+      <caption webpage="sun" alt=""/>
+      <caption webpage="fly-swatter" alt=""/>
       <caption webpage="spirit" alt=""/>
-      <caption webpage="russian-doll" alt=""/>
+      <caption webpage="piranha" alt=""/>
+      <caption webpage="returnhome" alt=""/>
     </file>
     <file name="u469_states.png" crc="4188785286" ref="returnhome"/>
     <file name="u469_states-r.png" crc="3888802719" ref="returnhome"/>
@@ -136,7 +138,7 @@
     <file name="3endwork - endscene - pc, mac - linux standalone - unity 2019412f1 personal_ _dx11_ 2022-01-11 00-44-20_moment.jpg" crc="18032517" ref="returnhome">
       <caption webpage="returnhome" alt=""/>
     </file>
-    <file name="u886-17.png" crc="452946787" ref="returnhome"/>
+    <file name="u886-17.png" crc="37923930" ref="returnhome"/>
     <file name="3endwork - mainscene - pc, mac - linux standalone - unity 2019412f1 personal _dx11_ 2022_1_11 上午 10_25_04.jpg" crc="433943368" ref="returnhome">
       <caption webpage="returnhome" alt=""/>
       <caption webpage="returnhome" alt=""/>
@@ -150,60 +152,61 @@
     <file name="3endwork - endscene - pc, mac - linux standalone - unity 2019412f1 personal_ _dx11_ 2022-01-11 00-53-30_moment.jpg" crc="4012936826" ref="returnhome">
       <caption webpage="returnhome" alt=""/>
     </file>
-    <file name="u1050-4.png" crc="4258754543" ref="returnhome"/>
+    <file name="u1050-4.png" crc="3758711874" ref="returnhome"/>
     <file name="220508225832.jpg" crc="151707709" ref="returnhome">
       <caption webpage="returnhome" alt=""/>
     </file>
     <file name="下載.jpg" crc="238416286" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1139-4.png" crc="126802199" ref="index"/>
+    <file name="u1139-4.png" crc="250748274" ref="index"/>
     <file name="下載 (1).jpg" crc="177979741" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1142-4.png" crc="3872558026" ref="index"/>
+    <file name="u1142-4.png" crc="246200928" ref="index"/>
     <file name="下載 (2).jpg" crc="13368908" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1148-4.png" crc="331363052" ref="index"/>
+    <file name="u1148-4.png" crc="3983013566" ref="index"/>
     <file name="u1165_states.png" crc="213124480" ref="vedio"/>
     <file name="u1165_states-r.png" crc="124466598" ref="vedio"/>
     <file name="u1203.png" crc="3816397663" ref="game"/>
     <file name="u1203-r.png" crc="4291857425" ref="game"/>
     <file name="u1175-4.png" crc="27672833" ref="what-if-not"/>
-    <file name="u1212-4.png" crc="4129860355" ref="what-if-not"/>
+    <file name="u1212-4.png" crc="4186813403" ref="what-if-not"/>
     <file name="蒼蠅.png" crc="72743358" ref="what-if-not">
       <caption webpage="what-if-not" alt=""/>
     </file>
     <file name="海報.png" crc="3776156985" ref="what-if-not">
       <caption webpage="what-if-not" alt=""/>
     </file>
-    <file name="u1243-4.png" crc="105578347" ref="what-if-not"/>
+    <file name="u1243-4.png" crc="11563710" ref="what-if-not"/>
     <file name="對話.png" crc="3910453117" ref="what-if-not:billboard">
       <caption webpage="billboard" alt=""/>
       <caption webpage="what-if-not" alt=""/>
     </file>
     <file name="太陽.png" crc="4228259198" ref="what-if-not:sun">
-      <caption webpage="sun" alt=""/>
       <caption webpage="what-if-not" alt=""/>
+      <caption webpage="sun" alt=""/>
     </file>
     <file name="泡泡.png" crc="3932714877" ref="what-if-not:bubble">
-      <caption webpage="bubble" alt=""/>
       <caption webpage="what-if-not" alt=""/>
+      <caption webpage="bubble" alt=""/>
     </file>
     <file name="冰.png" crc="3796358602" ref="what-if-not:ice">
       <caption webpage="what-if-not" alt=""/>
       <caption webpage="ice" alt=""/>
     </file>
     <file name="海豚.png" crc="3856358453" ref="what-if-not:sound-waves">
-      <caption webpage="sound-waves" alt=""/>
       <caption webpage="what-if-not" alt=""/>
+      <caption webpage="sound-waves" alt=""/>
     </file>
     <file name="俄羅斯娃娃.png" crc="3922193552" ref="what-if-not:russian-doll">
-      <caption webpage="what-if-not" alt=""/>
       <caption webpage="russian-doll" alt=""/>
+      <caption webpage="what-if-not" alt=""/>
     </file>
-    <file name="蒼蠅拍.png" crc="272739114" ref="what-if-not:flyflim">
+    <file name="蒼蠅拍.png" crc="272739114" ref="what-if-not:fly-swatter">
+      <caption webpage="fly-swatter" alt=""/>
       <caption webpage="what-if-not" alt=""/>
       <caption webpage="flyflim" alt=""/>
     </file>
@@ -215,16 +218,16 @@
       <caption webpage="piranha" alt=""/>
       <caption webpage="what-if-not" alt=""/>
     </file>
-    <file name="u1406_states.png" crc="483226856" ref="flyflim"/>
-    <file name="u1406_states-r.png" crc="3950255665" ref="flyflim"/>
-    <file name="u1405_states.png" crc="3888802719" ref="flyflim"/>
-    <file name="u1405_states-r.png" crc="4188785286" ref="flyflim"/>
-    <file name="u1522-4.png" crc="285097475" ref="flyflim"/>
+    <file name="u1406_states.png" crc="483226856" ref="fly-swatter"/>
+    <file name="u1406_states-r.png" crc="3950255665" ref="fly-swatter"/>
+    <file name="u1405_states.png" crc="3888802719" ref="fly-swatter"/>
+    <file name="u1405_states-r.png" crc="4188785286" ref="fly-swatter"/>
+    <file name="u1522-4.png" crc="511294280" ref="fly-swatter"/>
     <file name="u2064_states.png" crc="483226856" ref="bubble"/>
     <file name="u2064_states-r.png" crc="3950255665" ref="bubble"/>
     <file name="u2063_states.png" crc="3888802719" ref="bubble"/>
     <file name="u2063_states-r.png" crc="4188785286" ref="bubble"/>
-    <file name="u2068-4.png" crc="270761674" ref="bubble"/>
+    <file name="u2068-4.png" crc="3915117906" ref="bubble"/>
     <file name="u2015_states.png" crc="483226856" ref="building"/>
     <file name="u2015_states-r.png" crc="3950255665" ref="building"/>
     <file name="u2014_states.png" crc="3888802719" ref="building"/>
@@ -234,22 +237,22 @@
     <file name="u1977_states-r.png" crc="3950255665" ref="ice"/>
     <file name="u1976_states.png" crc="3888802719" ref="ice"/>
     <file name="u1976_states-r.png" crc="4188785286" ref="ice"/>
-    <file name="u1993-4.png" crc="21159064" ref="ice"/>
+    <file name="u1993-4.png" crc="475835520" ref="ice"/>
     <file name="u1945_states.png" crc="483226856" ref="sun"/>
     <file name="u1945_states-r.png" crc="3950255665" ref="sun"/>
     <file name="u1944_states.png" crc="3888802719" ref="sun"/>
     <file name="u1944_states-r.png" crc="4188785286" ref="sun"/>
-    <file name="u1961-4.png" crc="4186514883" ref="sun"/>
+    <file name="u1961-4.png" crc="438073533" ref="sun"/>
     <file name="u1901_states.png" crc="483226856" ref="russian-doll"/>
     <file name="u1901_states-r.png" crc="3950255665" ref="russian-doll"/>
     <file name="u1900_states.png" crc="3888802719" ref="russian-doll"/>
     <file name="u1900_states-r.png" crc="4188785286" ref="russian-doll"/>
-    <file name="u1925-4.png" crc="3828860785" ref="russian-doll"/>
+    <file name="u1925-4.png" crc="189975461" ref="russian-doll"/>
     <file name="u1864_states.png" crc="483226856" ref="sound-waves"/>
     <file name="u1864_states-r.png" crc="3950255665" ref="sound-waves"/>
     <file name="u1863_states.png" crc="3888802719" ref="sound-waves"/>
     <file name="u1863_states-r.png" crc="4188785286" ref="sound-waves"/>
-    <file name="u1880-4.png" crc="450111408" ref="sound-waves"/>
+    <file name="u1880-4.png" crc="4162622828" ref="sound-waves"/>
     <file name="u1835_states.png" crc="483226856" ref="billboard"/>
     <file name="u1835_states-r.png" crc="3950255665" ref="billboard"/>
     <file name="u1834_states.png" crc="3888802719" ref="billboard"/>
@@ -259,24 +262,24 @@
     <file name="u2162_states-r.png" crc="3950255665" ref="piranha"/>
     <file name="u2161_states.png" crc="3888802719" ref="piranha"/>
     <file name="u2161_states-r.png" crc="4188785286" ref="piranha"/>
-    <file name="u2166-4.png" crc="3828120865" ref="piranha"/>
+    <file name="u2166-4.png" crc="223005002" ref="piranha"/>
     <file name="u1206_states.png" crc="4062055808" ref="game"/>
     <file name="u1206_states-r.png" crc="4250568866" ref="game"/>
-    <file name="u483-10.png" crc="219181434" ref="spirit"/>
+    <file name="u483-10.png" crc="314263753" ref="spirit"/>
   </folder>
-  <file name="index.html" crc="3981102876" seo="true" mt="1655262656071" redirect="true"/>
-  <file name="vedio.html" crc="3777474657" seo="true" mt="1655262536536" redirect="true"/>
+  <file name="index.html" crc="4126390246" seo="true" mt="1655271094347" redirect="true"/>
+  <file name="vedio.html" crc="206340269" seo="true" mt="1655271110949" redirect="true"/>
   <file name="game.html" crc="211094766" seo="true" mt="1655262531035" redirect="true"/>
-  <file name="what-if-not.html" crc="3940543603" seo="true" mt="1655261930909" redirect="true"/>
-  <file name="spirit.html" crc="4054012112" seo="true" mt="1655262054297" redirect="true"/>
-  <file name="returnhome.html" crc="4108560139" seo="true" mt="1655262197188" redirect="true"/>
-  <file name="flyflim.html" crc="119845200" seo="true" mt="1655262855956" redirect="true"/>
-  <file name="bubble.html" crc="479117709" seo="true" mt="1655263014758" redirect="true"/>
+  <file name="what-if-not.html" crc="406253018" seo="true" mt="1655271184517" redirect="true"/>
+  <file name="spirit.html" crc="91950594" seo="true" mt="1655271142186" redirect="true"/>
+  <file name="returnhome.html" crc="4056069642" seo="true" mt="1655271131860" redirect="true"/>
+  <file name="bubble.html" crc="9668504" seo="true" mt="1655271241937" redirect="true"/>
   <file name="building.html" crc="4059136353" seo="true" mt="1655262999180" redirect="true"/>
-  <file name="ice.html" crc="4100561688" seo="true" mt="1655262977806" redirect="true"/>
-  <file name="sun.html" crc="3775011971" seo="true" mt="1655262960289" redirect="true"/>
-  <file name="russian-doll.html" crc="4013936932" seo="true" mt="1655262938949" redirect="true"/>
-  <file name="sound-waves.html" crc="149373515" seo="true" mt="1655262872599" redirect="true"/>
+  <file name="ice.html" crc="529944037" seo="true" mt="1655271233477" redirect="true"/>
+  <file name="sun.html" crc="20923942" seo="true" mt="1655271221408" redirect="true"/>
+  <file name="russian-doll.html" crc="3971783764" seo="true" mt="1655271210156" redirect="true"/>
+  <file name="sound-waves.html" crc="4024296158" seo="true" mt="1655271193259" redirect="true"/>
   <file name="billboard.html" crc="250473261" seo="true" mt="1655262815752" redirect="true"/>
-  <file name="piranha.html" crc="46520672" seo="true" mt="1655263031736" redirect="true"/>
+  <file name="piranha.html" crc="241397228" seo="true" mt="1655271261299" redirect="true"/>
+  <file name="fly-swatter.html" crc="61101358" seo="true" mt="1655271184519" redirect="true"/>
 </manifest>
