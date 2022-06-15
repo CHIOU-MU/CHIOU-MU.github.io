@@ -17,47 +17,43 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>ICE</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/ice.css?crc=3806904930" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/ice.css?crc=4238967106" id="pagesheet"/>
     <!--HTML Widget code-->
   <style type="text/css">#u1991.size_fluid_width_height iframe { position:absolute; left:0; top:0; }</style>
  </head>
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- group -->
-   <div class="clearfix grpelem" id="pu1975"><!-- group -->
-    <div class="browser_width" id="u1975-bw">
-     <div id="u1975"><!-- simple frame --></div>
+   <div class="browser_width" id="u1975-bw">
+    <div id="u1975"><!-- simple frame --></div>
+   </div>
+   <div class="clearfix grpelem" id="pu1994"><!-- column -->
+    <div class="museBGSize colelem" id="u1994"><!-- simple frame -->
+     <div class="fluid_height_spacer"></div>
     </div>
-    <div id="u1978-wrapper">
-     <a class="nonblock nontext museBGSize rounded-corners" id="u1978" href="what-if-not.html#card"><!-- simple frame --></a>
-    </div>
-    <div id="u1979-wrapper">
-     <a class="nonblock nontext museBGSize rounded-corners" id="u1979" href="index.html"><!-- simple frame --></a>
-    </div>
+    <img class="colelem" id="u1993-4" alt="故事結局之一，人類滅絕" src="images/u1993-4.png?crc=21159064" data-image-width="308"/><!-- rasterized frame -->
    </div>
    <div class="clearfix grpelem" id="pppu1977"><!-- column -->
     <div class="clearfix colelem" id="ppu1977"><!-- group -->
-     <a class="nonblock nontext" id="u1977" href="game.html"><!-- state-based BG images --><div id="u1977-wrapper"><div id="u1977_states"><img alt="遊戲" src="images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></div></a>
-     <a class="nonblock nontext" id="u1976" href="vedio.html"><!-- state-based BG images --><div id="u1976-wrapper"><div id="u1976_states"><img alt="影像" src="images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></div></a>
+     <a class="nonblock nontext" id="u1977" href="game.html"><!-- state-based BG images --><img id="u1977_states" alt="遊戲" src="images/blank.gif?crc=4208392903"/></a>
+     <a class="nonblock nontext" id="u1976" href="vedio.html"><!-- state-based BG images --><img id="u1976_states" alt="影像" src="images/blank.gif?crc=4208392903"/></a>
     </div>
-    <div class="browser_width colelem" id="u1990-bw">
-     <div id="u1990"><!-- group -->
-      <div class="clearfix" id="u1990_align_to_page">
-       <div class="clearfix grpelem" id="pu1994"><!-- column -->
-        <div class="museBGSize colelem" id="u1994"><!-- simple frame --></div>
-        <img class="colelem" id="u1993-4" alt="故事結局之一，人類滅絕" src="images/u1993-4.png?crc=475835520" data-image-width="308"/><!-- rasterized frame -->
-       </div>
-       <div class="size_fluid_width_height grpelem" id="u1991" data-pintopage="page_fluidx" data-sizePolicy="fluidWidthHeight"><!-- custom html -->
-        <div class="fluid_height_spacer"></div>
-        
+    <div class="size_fluid_width_height colelem" id="u1991" data-pintopage="page_fluidx" data-sizePolicy="fluidWidthHeight"><!-- custom html -->
+     <div class="fluid_height_spacer"></div>
+     
 <iframe class="actAsDiv" style="width:100%;height:100%;" src="//www.youtube.com/embed/QWk_XlM-SuQ?autoplay=1&loop=0&showinfo=0&theme=dark&color=red&controls=1&modestbranding=0&start=0&fs=0&iv_load_policy=3&wmode=transparent&rel=0" frameborder="0" allowfullscreen></iframe>
 
-       </div>
-      </div>
-     </div>
     </div>
    </div>
-   <div class="verticalspacer" data-offset-top="744" data-content-above-spacer="743" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="clearfix grpelem" id="pu1978"><!-- group -->
+    <div id="u1978-wrapper">
+     <a class="nonblock nontext museBGSize rounded-corners" id="u1978" href="what-if-not.html#card"><!-- simple frame --><div class="fluid_height_spacer"></div></a>
+    </div>
+    <div id="u1979-wrapper">
+     <a class="nonblock nontext museBGSize rounded-corners" id="u1979" href="index.html"><!-- simple frame --><div class="fluid_height_spacer"></div></a>
+    </div>
+   </div>
+   <div class="verticalspacer" data-offset-top="711" data-content-above-spacer="710" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
   </div>
   <div class="preload_images">
    <img class="preload" src="images/u1977_states-r.png?crc=3950255665" alt=""/>
@@ -78,8 +74,6 @@ var muse_init=function(){require.config({baseUrl:""});require(["jquery","museuti
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
-Muse.Utils.resizeHeight('.browser_width');/* resize height */
-Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */

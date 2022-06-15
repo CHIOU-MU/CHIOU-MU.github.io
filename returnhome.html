@@ -17,7 +17,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>ReturnHome</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/returnhome.css?crc=4242578232" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/returnhome.css?crc=3851174871" id="pagesheet"/>
     <!--HTML Widget code-->
   <style type="text/css">#u285.size_fluid_width_height iframe { position:absolute; left:0; top:0; }</style>
  </head>
@@ -25,9 +25,15 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 
   <div class="clearfix borderbox" id="page"><!-- group -->
    <div class="clearfix grpelem" id="pu654"><!-- group -->
-    <a class="nonblock nontext museBGSize rounded-corners" id="u654" href="game.html"><!-- simple frame --></a>
-    <a class="nonblock nontext museBGSize rounded-corners" id="u655" href="index.html"><!-- simple frame --></a>
-    <a class="nonblock nontext anim_swing museBGSize rounded-corners" id="u656" href="returnhome.html#top"><!-- simple frame --></a>
+    <div id="u654-wrapper">
+     <a class="nonblock nontext museBGSize rounded-corners" id="u654" href="game.html"><!-- simple frame --><div class="fluid_height_spacer"></div></a>
+    </div>
+    <div id="u655-wrapper">
+     <a class="nonblock nontext museBGSize rounded-corners" id="u655" href="index.html"><!-- simple frame --><div class="fluid_height_spacer"></div></a>
+    </div>
+    <div id="u656-wrapper">
+     <a class="nonblock nontext anim_swing museBGSize rounded-corners" id="u656" href="returnhome.html#top"><!-- simple frame --><div class="fluid_height_spacer"></div></a>
+    </div>
     <div class="browser_width" id="u468-bw">
      <div id="u468"><!-- simple frame --></div>
     </div>
@@ -39,7 +45,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <a class="anchor_item grpelem" id="top" data-sizePolicy="fixed" data-pintopage="page_fluidx"></a>
     </div>
     <img class="colelem" id="u793-4" alt="回家" width="180" height="86" src="images/u793-4.png?crc=415879725"/><!-- rasterized frame -->
-    <div class="size_fixed colelem" id="u285" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- custom html -->
+    <div class="size_fluid_width_height colelem" id="u285" data-pintopage="page_fluidx" data-sizePolicy="fluidWidthHeight"><!-- custom html -->
+     <div class="fluid_height_spacer"></div>
      
 <iframe class="actAsDiv" style="width:100%;height:100%;" src="//www.youtube.com/embed/VyQ_q0428yA?autoplay=0&loop=0&showinfo=0&theme=dark&color=red&controls=1&modestbranding=0&start=0&fs=0&iv_load_policy=1&wmode=transparent&rel=1" frameborder="0" allowfullscreen></iframe>
 
@@ -48,24 +55,39 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div class="fluid_height_spacer"></div>
     </div>
     <div class="clearfix colelem" id="pu893"><!-- group -->
-     <div class="museBGSize grpelem" id="u893" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- simple frame --></div>
-     <div class="museBGSize grpelem" id="u904" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- simple frame --></div>
-     <img class="grpelem" id="u886-17" alt="故事內容 一個因車禍死亡的獨居者，忘記了自己已經死，不斷的重複活在生前最後一天。每一次的甦醒，只記得自己現在似乎得出門了，早上十一點和別人有約，在準備出門的過程中，卻發現許多常用的物品不見了，但因為急忙出門而忽略了這些資訊，找到備用的物品後便衝忙得出門了。 過一段時間後，發現剛剛拿去充電的手機忘記帶了，再次回到房間，打開手機後才看到之前朋友留下的訊息，這時才意識到他已經死了，就在相約的那天，因為手機在充電沒帶，著急回家的路上出了車禍，當場死亡。因此，在房間中才會失去一些出門常用的物品，手機卻還在桌上。 由於人口老化、結婚率下降等等的問題，越來越多人選擇一個人居住，鄰里的關係也越來越疏遠，或是親友關係很淡，不常和他人聯繫，這些時候在家中發生意外也幾乎不會有任何人知道。 我目前也是一個人獨居在外，也很少與家人有聯繫，有時就會在想會不會有一天我出事了，沒有任何人知道。所以我把場景設定為類似我房間的樣子，希望不會有這一天的發生。 " src="images/u886-17.png?crc=37923930" data-image-width="1334"/><!-- rasterized frame -->
+     <div class="museBGSize grpelem" id="u893"><!-- simple frame -->
+      <div class="fluid_height_spacer"></div>
+     </div>
+     <div class="museBGSize grpelem" id="u904"><!-- simple frame -->
+      <div class="fluid_height_spacer"></div>
+     </div>
+     <img class="grpelem" id="u886-17" alt="故事內容 一個因車禍死亡的獨居者，忘記了自己已經死，不斷的重複活在生前最後一天。每一次的甦醒，只記得自己現在似乎得出門了，早上十一點和別人有約，在準備出門的過程中，卻發現許多常用的物品不見了，但因為急忙出門而忽略了這些資訊，找到備用的物品後便衝忙得出門了。 過一段時間後，發現剛剛拿去充電的手機忘記帶了，再次回到房間，打開手機後才看到之前朋友留下的訊息，這時才意識到他已經死了，就在相約的那天，因為手機在充電沒帶，著急回家的路上出了車禍，當場死亡。因此，在房間中才會失去一些出門常用的物品，手機卻還在桌上。 由於人口老化、結婚率下降等等的問題，越來越多人選擇一個人居住，鄰里的關係也越來越疏遠，或是親友關係很淡，不常和他人聯繫，這些時候在家中發生意外也幾乎不會有任何人知道。 我目前也是一個人獨居在外，也很少與家人有聯繫，有時就會在想會不會有一天我出事了，沒有任何人知道。所以我把場景設定為類似我房間的樣子，希望不會有這一天的發生。 " src="images/u886-17.png?crc=452946787" data-image-width="1334"/><!-- rasterized frame -->
     </div>
     <div class="clearfix colelem" id="pu985"><!-- group -->
      <div class="clearfix grpelem" id="u985"><!-- group -->
-      <div class="museBGSize clearfix grpelem" id="u960"><!-- group -->
-       <div class="museBGSize grpelem" id="u982" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- simple frame --></div>
+      <div class="museBGSize grpelem" id="u960"><!-- simple frame -->
+       <div class="fluid_height_spacer"></div>
+      </div>
+      <div class="museBGSize grpelem" id="u982"><!-- simple frame -->
+       <div class="fluid_height_spacer"></div>
       </div>
      </div>
-     <div class="museBGSize grpelem" id="u963" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- simple frame --></div>
+     <div class="museBGSize grpelem" id="u963"><!-- simple frame -->
+      <div class="fluid_height_spacer"></div>
+     </div>
     </div>
     <div class="clearfix colelem" id="pu1006"><!-- group -->
-     <div class="museBGSize grpelem" id="u1006" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- simple frame --></div>
-     <div class="museBGSize grpelem" id="u991" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- simple frame --></div>
+     <div class="museBGSize grpelem" id="u1006"><!-- simple frame -->
+      <div class="fluid_height_spacer"></div>
+     </div>
+     <div class="museBGSize grpelem" id="u991"><!-- simple frame -->
+      <div class="fluid_height_spacer"></div>
+     </div>
     </div>
-    <img class="colelem" id="u1050-4" alt="遊戲下載" src="images/u1050-4.png?crc=3758711874" data-image-width="217"/><!-- rasterized frame -->
-    <div class="colelem" id="u1037"><!-- simple frame --></div>
+    <img class="colelem" id="u1050-4" alt="遊戲下載" src="images/u1050-4.png?crc=4258754543" data-image-width="217"/><!-- rasterized frame -->
+    <div class="colelem" id="u1037"><!-- simple frame -->
+     <div class="fluid_height_spacer"></div>
+    </div>
    </div>
    <div class="verticalspacer" data-offset-top="2626" data-content-above-spacer="2626" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
   </div>
