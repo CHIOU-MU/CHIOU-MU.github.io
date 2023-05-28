@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portfolio.com" resolutions="1x" timestamp="1685265134035">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portfolio.com" resolutions="1x" timestamp="1685266037566">
   <folder name="assets">
     <file name="hideandseek.exe" crc="118440383" seo="true" mt="1684669618000"/>
     <file name="family.tif" crc="86966696" seo="true" mt="1679577194000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3869436061" ref="index"/>
+    <file name="index.css" crc="4127544186" ref="index"/>
     <file name="returnhome.css" crc="523722246" ref="returnhome"/>
     <file name="game.css" crc="3888427168" ref="game"/>
     <file name="what-if-not.css" crc="296927166" ref="what-if-not"/>
@@ -41,15 +41,14 @@
     <file name="圖標2.jpg" crc="4087317215" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u320-4.png" crc="3886585064" ref="index"/>
-    <file name="u803-4.png" crc="110026752" ref="index"/>
+    <file name="u320-4.png" crc="520828250" ref="index"/>
     <file name="回頂部.png" crc="3842256896" ref="index:vedio:game:spirit:returnhome:what-if-not:luck-of-the-draw:hide-and-seek">
       <caption webpage="hide-and-seek" alt=""/>
       <caption webpage="spirit" alt=""/>
       <caption webpage="vedio" alt=""/>
       <caption webpage="what-if-not" alt=""/>
-      <caption webpage="returnhome" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="returnhome" alt=""/>
       <caption webpage="luck-of-the-draw" alt=""/>
       <caption webpage="game" alt=""/>
     </file>
@@ -178,15 +177,15 @@
     <file name="下載.jpg" crc="238416286" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1139-4.png" crc="250748274" ref="index"/>
+    <file name="u1139-4.png" crc="4265957774" ref="index"/>
     <file name="下載 (1).jpg" crc="177979741" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1142-4.png" crc="246200928" ref="index"/>
+    <file name="u1142-4.png" crc="3954192391" ref="index"/>
     <file name="下載 (2).jpg" crc="13368908" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1148-4.png" crc="3983013566" ref="index"/>
+    <file name="u1148-4.png" crc="226868683" ref="index"/>
     <file name="u1165_states.png" crc="213124480" ref="vedio"/>
     <file name="u1165_states-r.png" crc="124466598" ref="vedio"/>
     <file name="u1175-4.png" crc="27672833" ref="what-if-not"/>
@@ -356,8 +355,9 @@
     <file name="nespaper-crop-u4436.png" crc="54301219" seo="true" ref="hide-and-seek">
       <caption webpage="hide-and-seek" alt=""/>
     </file>
+    <file name="u803-8.png" crc="4267210588" ref="index"/>
   </folder>
-  <file name="index.html" crc="4126390246" seo="true" mt="1655271094347" redirect="true"/>
+  <file name="index.html" crc="463001166" seo="true" mt="1685266015275" redirect="true"/>
   <file name="vedio.html" crc="206340269" seo="true" mt="1655271110949" redirect="true"/>
   <file name="game.html" crc="4152785640" seo="true" mt="1685263889356" redirect="true"/>
   <file name="what-if-not.html" crc="406253018" seo="true" mt="1655271184517" redirect="true"/>
