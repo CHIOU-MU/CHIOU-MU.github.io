@@ -7,6 +7,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://portfolio.com/building.html</loc>
+    <lastmod>2022-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://portfolio.com/ice.html</loc>
+    <lastmod>2022-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://portfolio.com/vedio.html</loc>
     <lastmod>2022-06-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -14,9 +26,12 @@
   </url>
   <url>
     <loc>http://portfolio.com/game.html</loc>
-    <lastmod>2022-06-15</lastmod>
+    <lastmod>2023-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://portfolio.com/images/%E6%98%8E%E4%BF%A1%E7%89%871-crop-u4077.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://portfolio.com/what-if-not.html</loc>
@@ -32,9 +47,12 @@
   </url>
   <url>
     <loc>http://portfolio.com/returnhome.html</loc>
-    <lastmod>2022-06-15</lastmod>
+    <lastmod>2023-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://portfolio.com/images/icon-crop-u4309.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://portfolio.com/bubble.html</loc>
@@ -43,13 +61,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://portfolio.com/building.html</loc>
+    <loc>http://portfolio.com/billboard.html</loc>
     <lastmod>2022-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://portfolio.com/ice.html</loc>
+    <loc>http://portfolio.com/sound-waves.html</loc>
     <lastmod>2022-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -67,16 +85,61 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://portfolio.com/sound-waves.html</loc>
-    <lastmod>2022-06-15</lastmod>
+    <loc>http://portfolio.com/luck-of-the-draw.html</loc>
+    <lastmod>2023-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://portfolio.com/images/%E8%B2%BC%E4%B8%8A%E7%9A%84-svg-1066x593.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/%E8%B2%BC%E4%B8%8A%E7%9A%84-svg-1065x602.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/%E6%B5%B7%E5%A0%B11.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/%E6%B5%B7%E5%A0%B12.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/%E6%B5%B7%E5%A0%B14-crop-u4274.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/%E6%B5%B7%E5%A0%B13.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/1-crop-u4289.png</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://portfolio.com/billboard.html</loc>
-    <lastmod>2022-06-15</lastmod>
+    <loc>http://portfolio.com/hide-and-seek.html</loc>
+    <lastmod>2023-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://portfolio.com/images/hide-crop-u4331.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/%E6%B5%B7%E5%A0%B122.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/%E6%B5%B7%E5%A0%B112.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/%E6%B5%B7%E5%A0%B13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/%E6%B5%B7%E5%A0%B14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/family.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/%E8%B2%BC%E4%B8%8A%E7%9A%84-svg-96151x357.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/nespaper-crop-u4436.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://portfolio.com/piranha.html</loc>
@@ -87,6 +150,18 @@
   <url>
     <loc>http://portfolio.com/fly-swatter.html</loc>
     <lastmod>2022-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://portfolio.com/assets/family.tif</loc>
+    <lastmod>2023-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://portfolio.com/assets/hideandseek.exe</loc>
+    <lastmod>2023-05-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
