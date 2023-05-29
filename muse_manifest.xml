@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portfolio.com" resolutions="1x" timestamp="1685360693393">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portfolio.com" resolutions="1x" timestamp="1685360813404">
   <folder name="assets">
     <file name="hideandseek.exe" crc="118440383" seo="true" mt="1684669618000"/>
     <file name="family.tif" crc="86966696" seo="true" mt="1679577194000"/>
@@ -21,7 +21,7 @@
     <file name="piranha.css" crc="148030592" ref="piranha"/>
     <file name="fly-swatter.css" crc="4086699269" ref="fly-swatter"/>
     <file name="luck-of-the-draw.css" crc="28567562" ref="luck-of-the-draw"/>
-    <file name="hide-and-seek.css" crc="4246529034" ref="hide-and-seek"/>
+    <file name="hide-and-seek.css" crc="3903380671" ref="hide-and-seek"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:vedio:game:what-if-not:spirit:returnhome:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha:fly-swatter:luck-of-the-draw:hide-and-seek"/>
@@ -63,6 +63,7 @@
       <caption webpage="vedio" alt=""/>
     </file>
     <file name="回首頁.png" crc="3967471723" ref="vedio:game:spirit:returnhome:what-if-not:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha:fly-swatter:luck-of-the-draw:hide-and-seek">
+      <caption webpage="flyflim" alt=""/>
       <caption webpage="piranha" alt=""/>
       <caption webpage="ice" alt=""/>
       <caption webpage="luck-of-the-draw" alt=""/>
@@ -77,9 +78,8 @@
       <caption webpage="what-if-not" alt=""/>
       <caption webpage="vedio" alt=""/>
       <caption webpage="returnhome" alt=""/>
-      <caption webpage="sound-waves" alt=""/>
-      <caption webpage="flyflim" alt=""/>
       <caption webpage="russian-doll" alt=""/>
+      <caption webpage="sound-waves" alt=""/>
     </file>
     <file name="u436-4-a.png" crc="3950255665" ref="game"/>
     <file name="u435_states.png" crc="4188785286" ref="game"/>
@@ -118,6 +118,7 @@
       <caption webpage="spirit" alt=""/>
     </file>
     <file name="回前面.png" crc="480024669" ref="spirit:returnhome:what-if-not:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha:fly-swatter:luck-of-the-draw:hide-and-seek">
+      <caption webpage="flyflim" alt=""/>
       <caption webpage="piranha" alt=""/>
       <caption webpage="ice" alt=""/>
       <caption webpage="sun" alt=""/>
@@ -130,9 +131,8 @@
       <caption webpage="bubble" alt=""/>
       <caption webpage="what-if-not" alt=""/>
       <caption webpage="returnhome" alt=""/>
-      <caption webpage="sound-waves" alt=""/>
-      <caption webpage="flyflim" alt=""/>
       <caption webpage="russian-doll" alt=""/>
+      <caption webpage="sound-waves" alt=""/>
     </file>
     <file name="u469_states.png" crc="4188785286" ref="returnhome"/>
     <file name="u469_states-r.png" crc="3888802719" ref="returnhome"/>
@@ -369,5 +369,5 @@
   <file name="piranha.html" crc="241397228" seo="true" mt="1655271261299" redirect="true"/>
   <file name="fly-swatter.html" crc="61101358" seo="true" mt="1655271184519" redirect="true"/>
   <file name="luck-of-the-draw.html" crc="286592511" seo="true" mt="1685264147388" redirect="true"/>
-  <file name="hide-and-seek.html" crc="195814305" seo="true" mt="1685360685083" redirect="true"/>
+  <file name="hide-and-seek.html" crc="3795679557" seo="true" mt="1685360803494" redirect="true"/>
 </manifest>
