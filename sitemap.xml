@@ -47,11 +47,14 @@
   </url>
   <url>
     <loc>http://portfolio.com/returnhome.html</loc>
-    <lastmod>2023-05-28</lastmod>
+    <lastmod>2023-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://portfolio.com/images/icon-crop-u4309.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/%E8%B2%BC%E4%B8%8A%E7%9A%84%E5%BD%B1%E5%83%8F%201920x1080-crop-u4477.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -86,7 +89,7 @@
   </url>
   <url>
     <loc>http://portfolio.com/luck-of-the-draw.html</loc>
-    <lastmod>2023-05-29</lastmod>
+    <lastmod>2023-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -99,9 +102,6 @@
       <image:loc>http://portfolio.com/images/%E6%B5%B7%E5%A0%B11.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://portfolio.com/images/%E6%B5%B7%E5%A0%B12.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://portfolio.com/images/%E6%B5%B7%E5%A0%B14-crop-u4274.png</image:loc>
     </image:image>
     <image:image>
@@ -110,12 +110,18 @@
     <image:image>
       <image:loc>http://portfolio.com/images/1-crop-u4289.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/%E9%99%B3%E8%AD%BD%E7%9C%9F_%E9%81%8B%E6%B0%A3%E5%B0%8D%E6%B1%BA_%E4%B8%80%E8%88%AC%E5%9C%96_05.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://portfolio.com/hide-and-seek.html</loc>
-    <lastmod>2023-05-29</lastmod>
+    <lastmod>2023-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://portfolio.com/images/%E6%B5%B7%E5%A0%B12.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://portfolio.com/images/hide-crop-u4331.png</image:loc>
     </image:image>
@@ -135,10 +141,19 @@
       <image:loc>http://portfolio.com/images/nespaper-crop-u4436.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://portfolio.com/images/%E6%B5%B7%E5%A0%B122.png</image:loc>
+      <image:loc>http://portfolio.com/images/%E6%B5%B7%E5%A0%B112.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://portfolio.com/images/%E6%B5%B7%E5%A0%B112.png</image:loc>
+      <image:loc>http://portfolio.com/images/%E8%B2%BC%E4%B8%8A%E7%9A%84-svg-1920x1080.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/%E8%B2%BC%E4%B8%8A%E7%9A%84%E5%BD%B1%E5%83%8F%201920x1080.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/%E8%B2%BC%E4%B8%8A%E7%9A%84%E5%BD%B1%E5%83%8F%201920x10802.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/%E8%B2%BC%E4%B8%8A%E7%9A%84%E5%BD%B1%E5%83%8F%201920x10803.jpg</image:loc>
     </image:image>
   </url>
   <url>
