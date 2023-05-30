@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portfolio.com" resolutions="1x" timestamp="1685426667741">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portfolio.com" resolutions="1x" timestamp="1685427123817">
   <folder name="assets">
     <file name="hideandseek.exe" crc="118440383" seo="true" mt="1684669618000"/>
     <file name="family.tif" crc="86966696" seo="true" mt="1679577194000"/>
@@ -6,7 +6,7 @@
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4127544186" ref="index"/>
-    <file name="returnhome.css" crc="3988570225" ref="returnhome"/>
+    <file name="returnhome.css" crc="132680784" ref="returnhome"/>
     <file name="game.css" crc="4131577087" ref="game"/>
     <file name="what-if-not.css" crc="296927166" ref="what-if-not"/>
     <file name="vedio.css" crc="3804117869" ref="vedio"/>
@@ -20,7 +20,7 @@
     <file name="sun.css" crc="382110092" ref="sun"/>
     <file name="piranha.css" crc="148030592" ref="piranha"/>
     <file name="fly-swatter.css" crc="4086699269" ref="fly-swatter"/>
-    <file name="luck-of-the-draw.css" crc="176482224" ref="luck-of-the-draw"/>
+    <file name="luck-of-the-draw.css" crc="522025539" ref="luck-of-the-draw"/>
     <file name="hide-and-seek.css" crc="297851825" ref="hide-and-seek"/>
   </folder>
   <folder name="scripts">
@@ -43,14 +43,14 @@
     </file>
     <file name="u320-4.png" crc="520828250" ref="index"/>
     <file name="回頂部.png" crc="3842256896" ref="index:vedio:game:spirit:returnhome:what-if-not:luck-of-the-draw:hide-and-seek">
-      <caption webpage="hide-and-seek" alt=""/>
       <caption webpage="returnhome" alt=""/>
-      <caption webpage="spirit" alt=""/>
       <caption webpage="game" alt=""/>
-      <caption webpage="what-if-not" alt=""/>
+      <caption webpage="hide-and-seek" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="luck-of-the-draw" alt=""/>
+      <caption webpage="what-if-not" alt=""/>
+      <caption webpage="spirit" alt=""/>
       <caption webpage="vedio" alt=""/>
+      <caption webpage="luck-of-the-draw" alt=""/>
     </file>
     <file name="u352-4-a.png" crc="3888802719" ref="vedio"/>
     <file name="u408_states.png" crc="483226856" ref="vedio"/>
@@ -63,23 +63,23 @@
       <caption webpage="vedio" alt=""/>
     </file>
     <file name="回首頁.png" crc="3967471723" ref="vedio:game:spirit:returnhome:what-if-not:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha:fly-swatter:luck-of-the-draw:hide-and-seek">
-      <caption webpage="flyflim" alt=""/>
-      <caption webpage="sun" alt=""/>
-      <caption webpage="bubble" alt=""/>
-      <caption webpage="ice" alt=""/>
-      <caption webpage="game" alt=""/>
-      <caption webpage="what-if-not" alt=""/>
-      <caption webpage="hide-and-seek" alt=""/>
       <caption webpage="building" alt=""/>
-      <caption webpage="fly-swatter" alt=""/>
-      <caption webpage="russian-doll" alt=""/>
-      <caption webpage="luck-of-the-draw" alt=""/>
       <caption webpage="spirit" alt=""/>
-      <caption webpage="returnhome" alt=""/>
-      <caption webpage="billboard" alt=""/>
-      <caption webpage="vedio" alt=""/>
+      <caption webpage="fly-swatter" alt=""/>
+      <caption webpage="ice" alt=""/>
       <caption webpage="piranha" alt=""/>
+      <caption webpage="returnhome" alt=""/>
+      <caption webpage="russian-doll" alt=""/>
+      <caption webpage="flyflim" alt=""/>
       <caption webpage="sound-waves" alt=""/>
+      <caption webpage="sun" alt=""/>
+      <caption webpage="billboard" alt=""/>
+      <caption webpage="what-if-not" alt=""/>
+      <caption webpage="game" alt=""/>
+      <caption webpage="vedio" alt=""/>
+      <caption webpage="bubble" alt=""/>
+      <caption webpage="hide-and-seek" alt=""/>
+      <caption webpage="luck-of-the-draw" alt=""/>
     </file>
     <file name="u436-4-a.png" crc="3950255665" ref="game"/>
     <file name="u435_states.png" crc="4188785286" ref="game"/>
@@ -118,21 +118,21 @@
       <caption webpage="spirit" alt=""/>
     </file>
     <file name="回前面.png" crc="480024669" ref="spirit:returnhome:what-if-not:bubble:building:ice:sun:russian-doll:sound-waves:billboard:piranha:fly-swatter:luck-of-the-draw:hide-and-seek">
-      <caption webpage="flyflim" alt=""/>
-      <caption webpage="sun" alt=""/>
-      <caption webpage="bubble" alt=""/>
-      <caption webpage="ice" alt=""/>
-      <caption webpage="what-if-not" alt=""/>
-      <caption webpage="hide-and-seek" alt=""/>
       <caption webpage="building" alt=""/>
       <caption webpage="fly-swatter" alt=""/>
-      <caption webpage="luck-of-the-draw" alt=""/>
-      <caption webpage="spirit" alt=""/>
-      <caption webpage="returnhome" alt=""/>
-      <caption webpage="billboard" alt=""/>
-      <caption webpage="russian-doll" alt=""/>
+      <caption webpage="ice" alt=""/>
+      <caption webpage="what-if-not" alt=""/>
       <caption webpage="piranha" alt=""/>
+      <caption webpage="russian-doll" alt=""/>
+      <caption webpage="flyflim" alt=""/>
       <caption webpage="sound-waves" alt=""/>
+      <caption webpage="sun" alt=""/>
+      <caption webpage="billboard" alt=""/>
+      <caption webpage="returnhome" alt=""/>
+      <caption webpage="spirit" alt=""/>
+      <caption webpage="bubble" alt=""/>
+      <caption webpage="hide-and-seek" alt=""/>
+      <caption webpage="luck-of-the-draw" alt=""/>
     </file>
     <file name="u469_states.png" crc="4188785286" ref="returnhome"/>
     <file name="u469_states-r.png" crc="3888802719" ref="returnhome"/>
@@ -350,7 +350,7 @@
     <file name="海報12.png" crc="4280107612" seo="true" ref="hide-and-seek">
       <caption webpage="hide-and-seek" alt=""/>
     </file>
-    <file name="貼上的影像 1920x1080-crop-u4477.jpg" crc="4053060779" seo="true" ref="returnhome">
+    <file name="貼上的影像 1920x1080-crop-u4477.jpg" crc="4263723843" seo="true" ref="returnhome">
       <caption webpage="returnhome" alt=""/>
     </file>
     <file name="陳譽真_運氣對決_一般圖_05.png" crc="251093931" seo="true" ref="luck-of-the-draw">
@@ -376,7 +376,7 @@
   <file name="game.html" crc="4158949572" seo="true" mt="1685360560461" redirect="true"/>
   <file name="what-if-not.html" crc="406253018" seo="true" mt="1655271184517" redirect="true"/>
   <file name="spirit.html" crc="91950594" seo="true" mt="1655271142186" redirect="true"/>
-  <file name="returnhome.html" crc="3802294655" seo="true" mt="1685425548465" redirect="true"/>
+  <file name="returnhome.html" crc="204456711" seo="true" mt="1685427098099" redirect="true"/>
   <file name="bubble.html" crc="9668504" seo="true" mt="1655271241937" redirect="true"/>
   <file name="building.html" crc="4059136353" seo="true" mt="1655262999180" redirect="true"/>
   <file name="ice.html" crc="529944037" seo="true" mt="1655271233477" redirect="true"/>
@@ -386,6 +386,6 @@
   <file name="billboard.html" crc="250473261" seo="true" mt="1655262815752" redirect="true"/>
   <file name="piranha.html" crc="241397228" seo="true" mt="1655271261299" redirect="true"/>
   <file name="fly-swatter.html" crc="61101358" seo="true" mt="1655271184519" redirect="true"/>
-  <file name="luck-of-the-draw.html" crc="3871746145" seo="true" mt="1685425688844" redirect="true"/>
+  <file name="luck-of-the-draw.html" crc="30672047" seo="true" mt="1685427113343" redirect="true"/>
   <file name="hide-and-seek.html" crc="4188619117" seo="true" mt="1685426592317" redirect="true"/>
 </manifest>
